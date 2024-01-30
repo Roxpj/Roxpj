@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/roxana-pj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roxana-pj" height="30" width="40" /></a>
 <a href="https://www.behance.net/roxanaxor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="roxanaxor" height="30" width="40" /></a>
+<a href="https://discord.gg/roxana_45540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="roxana_45540" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
